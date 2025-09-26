@@ -109,10 +109,5 @@ numpy>=1.24
 
 ---
 
-## 📜 License
-Specify your license here (e.g., MIT). Add a `LICENSE` file at the repo root.
-
----
-
 ## 🙌 Acknowledgments
 Inspired by classic deep learning tutorials and the idea of demystifying neural nets by implementing them from scratch.
